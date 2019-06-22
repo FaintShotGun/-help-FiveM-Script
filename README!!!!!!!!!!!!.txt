@@ -22,5 +22,5 @@ example: msg("Server's Discor: (discord link)")
 	msg("Server's Cad/MDT: (server cad link)")
 	msg("Civillan Cmnd's: (all server cmnds)")
 --------------------------------------------------------------------------------------------------------------------
-if you want to add more messages just create a new line and but msg("and then the messsage you want it to say")
+if you want to add more messages just create a new line above the line that says "end, false" and put msg("and then the messsage you want it to say")
 --------------------------------------------------------------------------------------------------------------------
